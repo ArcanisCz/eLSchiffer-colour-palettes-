@@ -33,6 +33,17 @@ export const palettes = [
     description: 'Do not know how to combine rigor, tenderness, perseverance and determination in one male image? Then use this palette. Dark blue and black will give the image confidence, denim blue – romanticism and mystery, and gray tones – lightness and freedom. No one can resist such a decision.',
   },
   {
+    name: 'Red as Sunset',
+    image: '/img/red.jpg',
+    attribution: {
+      name: 'Chris Barbalis',
+      url: 'https://unsplash.com/photos/aX4zU9Rp7jo',
+    },
+    colors: ['#F66A09', '#9D111A', '#310004', '#030104', '#000000'],
+    direction: 'horizontal',
+    description: "Red shades inspired by a sunset sky. This pallete contain shades of red and going darker to the nightly dark. Sunset the end of day, step into something unknown, the dark night. It may be the end, will we get to live another day? Let's hope we can get these views even in hell.",
+  },
+  {
     name: 'Night Sky',
     image: '/img/night-sky.jpg',
     attribution: {
